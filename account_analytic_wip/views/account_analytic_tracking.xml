@@ -72,7 +72,7 @@
                 <field name="child_ids" invisible="1" />
                 <field name="name" />
                 <field name="analytic_id" optional="hide" />
-                <field name="date" optional="hide" />
+                <field name="date" optional="show" />
                 <field name="product_id" optional="hide" />
                 <field
                     name="planned_amount"
