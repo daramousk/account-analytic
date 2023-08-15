@@ -75,6 +75,7 @@
                 decoration-danger="variance_actual_amount"
                 decoration-warning="pending_amount"
                 decoration-info="wip_actual_amount"
+                editable="bottom"
             >
                 <header>
                     <button
