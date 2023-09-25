@@ -76,6 +76,7 @@
                 decoration-warning="pending_amount"
                 decoration-info="wip_actual_amount"
                 editable="bottom"
+                default_order="date"
             >
                 <header>
                     <button
